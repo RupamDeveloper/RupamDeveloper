@@ -2,13 +2,13 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-codoblog-red)](https://youtube.com/channel/UCkgYqlsFvu7Tq-W2n8aQwtg)
 [![Linkedin Badge](https://img.shields.io/badge/-Rupam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupam-mankar-2686b7189/)](https://www.linkedin.com/in/rupam-mankar-2686b7189/)
-[![Website Badge](https://img.shields.io/badge/WebSite-codemaifil-green)](https://rupammankar.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/WebSite-portfolio-green)](https://rupammankar.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rupam-yellow)](https://stackoverflow.com/users/19592192/rupam-mankar)
 
 
 I'm Rupam Mankar
 Full Stack web developer and a student
-The crossover between design and programming has always been of interest to me, I've been lucky enough that I choose my carrier in software world.I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (React,ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,cassendra,Mysql) Show some love
+The crossover between design and programming has always been of interest to me, I've been lucky enough that I choose my carrier in software world.I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (React,ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql) Show some love
 
 <!--
 **RupamDeveloper/RupamDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
