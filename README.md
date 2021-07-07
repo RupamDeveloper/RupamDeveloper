@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-codoblog-red)](https://youtube.com/channel/UCkgYqlsFvu7Tq-W2n8aQwtg)
 [![Linkedin Badge](https://img.shields.io/badge/-Rupam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupam-mankar-2686b7189/)](https://www.linkedin.com/in/rupam-mankar-2686b7189/)
-[![Website Badge](https://img.shields.io/badge/WebSite-codemaifil-green)](https://codemaifil.blogspot.com/)
+[![Website Badge](https://img.shields.io/badge/WebSite-codemaifil-green)](https://rupammankar.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rupam-yellow)](https://stackoverflow.com/users/19592192/rupam-mankar)
 
 
